@@ -16,6 +16,7 @@ If more time:
 - will use decomposition in small pure components
 - will do real SEO
 - will check accessibility using JAWS - a real Tool for visually impaired users
+- will develop a 'smart' pager to dynamically change its limits, when app shows refine results 
 <br />
 
 To suggest what to add? may be to offer a standard `package.json` so we will not think that a specific tool is prohibited, or we are limited only to Functional Style etc.<br />
