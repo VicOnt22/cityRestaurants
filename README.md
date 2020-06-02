@@ -54,9 +54,9 @@ React DevTools and Redux Dev Tools extension are the everyday tool during develo
 currently this api only returns restaurant list based on one parameter which is city. 
 The task also indicates that some:
 - info is needed `Cuisine Types and Rating of the restaurant` shall be shown. But that info is not part of the API
-- also `Area` field is not informative - it does not change with in City so using it in `Refine` field is not productive.
+- also `Area` field is not informative - it does not change within City so using it in `Refine` field is not productive.
 ### '    5. Please describe yourself using JSON.'
 Use it in backend (`Node js/Express`, `PHP`) as well as frontend (`React`, `Jsavascript`, `PHP`) <br />
 Always feel a relief when see `JSON` answer in the request - now we may continue with other functionality as the data is already OK.
 <br />
-Having JSON at the base of `NoSQL document model` like `MongoDb` easy development for programmers already comfortable wit JSON format in general.
+Having JSON at the base of `NoSQL document model` like `MongoDb` easy development for programmers already comfortable with JSON format in general.
